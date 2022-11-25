@@ -18,10 +18,11 @@
 		"index.d.ts"
 	],
 	"dependencies": {
-		"camelcase": "^7.0.0"
+		"camelcase": "^7.0.0",
+		"unocss": "^0.46.5"
 	},
 	"peerDependencies": {
-		"@kidonng/daisyui": "^2.27.0",
+		"@kidonng/daisyui": "workspace:*",
 		"unocss": "^0.45.21"
 	},
 	"devDependencies": {
